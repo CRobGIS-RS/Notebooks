@@ -1,2 +1,2 @@
 # Notebooks
-Jupyter Noteboos
+Jupyter Notebooks
